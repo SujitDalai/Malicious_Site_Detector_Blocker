@@ -1,6 +1,7 @@
-Detecting and Blocking malicious URLs using Machine Learning (BMUsafe)
+**Detecting and Blocking malicious URLs using Machine Learning (BMUsafe)**
 
-Steps:
+**Steps:**
+
 Download extension
 
 Click on the Code button and select Download ZIP
