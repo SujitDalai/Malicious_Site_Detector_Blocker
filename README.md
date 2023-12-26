@@ -1,5 +1,7 @@
 Detecting and Blocking malicious URLs using Machine Learning (BMUsafe)
 
+https://github.com/SujitDalai/Malicious_Site_Detector_Blocker/blob/main/BMUsafe/Demo/BMUsafe1.png
+
 Steps:
 Download extension
 
